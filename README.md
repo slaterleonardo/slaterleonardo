@@ -21,7 +21,7 @@ func NewMe() *Person {
     LinkedIn:   "linkedin.com/in/slater-leonardo-128934297"
     Languages:  []string{"Golang", "Python", "JavaScript", "TypeScript", "C#", "SQL", "PHP", "EJS", "HTML", "CSS"},
     Frameworks: []string{"Gin", "Node.js", "Express.js", "React", "Next.js", "Django", "Flask", "Tailwind"},
-    Softwares:  []string{"MongoDB", "Elasticsearch", "MySQL", "PostgreSQL", "NGINX", "jQuery", "APIs", "Vim", "Docker"}
+    Softwares:  []string{"MongoDB", "Elasticsearch", "MySQL", "PostgreSQL", "NGINX", "jQuery", "APIs", "Vim", "Docker"},
   }
 }
 
