@@ -4,13 +4,13 @@
 package person
 
 type Person struct {
-  Name        string
-  Age         int
-  Website     string
-  LinkedIn    string
-  Langauges   []string
-  Frameworkds []string
-  Software    []string
+  Name       string
+  Age        int
+  Website    string
+  LinkedIn   string
+  Langauges  []string
+  Frameworks []string
+  Software   []string
 }
 
 func NewMe() *Person {
@@ -25,7 +25,7 @@ func NewMe() *Person {
   }
 }
 
-func (p *Person) 
+func (p *Person) DoWork() {}
 ```
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" **alt="Go" width="40" height="40"/>&nbsp;
